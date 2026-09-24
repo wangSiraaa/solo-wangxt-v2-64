@@ -23,3 +23,7 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+dist/
+.pgsql/data/
+.pgsql/pg.log
+*.log
